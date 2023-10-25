@@ -42,4 +42,4 @@ jobs:
         title: Monthly contributor report
         token: ${{ secrets.GH_TOKEN }}
         content-filepath: ./contributors.md
-        assignees: "@misterben"
+        assignees: "@mister-ben"
